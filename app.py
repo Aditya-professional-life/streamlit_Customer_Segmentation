@@ -52,7 +52,7 @@ def main():
 
     # Load the CSV file
     # file_path = "C:/Users/raviv/OneDrive/Desktop/deployment/Mall_Customers.csv"  # Use forward slashes or escape backslashes
-    df = pd.read_csv("Mall_Customers.csv)
+    df = pd.read_csv("Mall_Customers.csv")
     st.write("Here is the content of the CSV file:")
     st.write(df)
 

@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 
 
 
-st.title("Customer Segmentation Using K-Means Clustering:")
+st.title("E-Commerce Segmentation Suite")
 st.image("image.jpg", caption = "Image Created by Dalle-3")
 st.header("About the Customer Segmentation:")
 
